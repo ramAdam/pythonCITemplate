@@ -1,2 +1,2 @@
-# pythonCITemplate
-Continuous testing template for python projects
+# PythonCITemplate
+Continuous testing template for python projects. Read "run.txt" to see, how to run it
